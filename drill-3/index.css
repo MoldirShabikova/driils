@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+  padding: 40px;
+    background-color: grey;
+    box-sizing: border-box;
+}
+header div{
+    width: 70px;
+    height: 70px;
+    background-color: #4A90E2;
+ 
+}
+section{
+    height: 25vh;
+}
+.text{
+   padding: 50px;
+ height: 25vh;;
+
+}
+
+.blue{
+
+    background-color: rgb(35, 40, 192);
+   
+}
+.green{
+
+    background-color: rgb(70, 95, 78);
+
+}
+.green2{
+
+    background-color: rgb(10, 172, 94);
+
+}
+.yellow{
+
+    background-color: rgb(208, 215, 12);
+
+}
